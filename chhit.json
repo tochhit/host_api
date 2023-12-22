@@ -2,38 +2,38 @@
 	{
 		"id": 1,
 		"imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-		"title": "Angkor Wat",
-		"location": "Seim Ream"
+		"title": "ប្រាសាទអង្គរវត្ត",
+		"location": "សៀមរាប"
 	},
 	{
 		"id": 2,
 		"imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-		"title": "Phnom Penh",
-		"location": "Phnom Penh"
+		"title": "ទីក្រុងភ្នំពេញ",
+		"location": "រាជធានីភ្នំពេញ"
 	},
 	{
 		"id": 3,
 		"imageUrl": "https://drive.google.com/uc?id=1t6dE9kBHDWhx4WHHMzopJXiOwL6QFA8y",
-		"title": "SiHanuk",
-		"location": "SiHanuk"
+		"title": "ព្រះសីហនុ",
+		"location": "ក្រុងព្រះសីហនុ"
 	},
 	{
 		"id": 4,
 		"imageUrl": "https://drive.google.com/uc?id=1tU1L0YLJPZDn27oaBpxW9AOtI1oMq7Ff",
-		"title": "SiHanuk",
-		"location": "SiHanuk"
+		"title": "ខេត្តកំពត",
+		"location": "ក្រុងកំពត"
 	},
 	{
 		"id": 5,
 		"imageUrl": "https://drive.google.com/uc?id=1qyAg4tVoa37cjQXEIMSFvuWpDJdcELLl",
-		"title": "SiHanuk",
-		"location": "SiHanukSiHanuk"
+		"title": "ទឹកធ្លាក់ធ្នស់តាព្រហ្ម",
+		"location": "ឃុំស្រើង ខេត្តកំពង់ធំ"
 	},
 	{
 		"id": 6,
 		"imageUrl": "https://drive.google.com/uc?id=1qyAg4tVoa37cjQXEIMSFvuWpDJdcELLl",
-		"title": "SiHanuk",
-		"location": "ឃុំសែនមនោរម្យ​ SiHanuk"
+		"title": "ទឹកធ្លាក់លែងក្រៀង",
+		"location": "ឃុំសែនមនោរម្យ​ ខេត្តមណ្ឌលគិរី"
 	}
 
 ]
