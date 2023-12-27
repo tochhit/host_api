@@ -1,39 +1,19 @@
-[
-	{
-		"id": 1,
-		"imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-		"title": "AngKor Wat",
-		"location": "Siem Reap"
-	},
-	{
-		"id": 2,
-		"imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-		"title": "Phnom Penh",
-		"location": "Phnom Penh"
-	},
-	{
-		"id": 3,
-		"imageUrl": "https://drive.google.com/uc?id=1t6dE9kBHDWhx4WHHMzopJXiOwL6QFA8y",
-		"title": "ព្រះសីហនុ",
-		"location": "ក្រុងព្រះសីហនុ"
-	},
-	{
-		"id": 4,
-		"imageUrl": "https://drive.google.com/uc?id=1tU1L0YLJPZDn27oaBpxW9AOtI1oMq7Ff",
-		"title": "ខេត្តកំពត",
-		"location": "ក្រុងកំពត"
-	},
-	{
-		"id": 5,
-		"imageUrl": "https://drive.google.com/uc?id=1qyAg4tVoa37cjQXEIMSFvuWpDJdcELLl",
-		"title": "ទឹកធ្លាក់ធ្នស់តាព្រហ្ម",
-		"location": "ឃុំស្រើង ខេត្តកំពង់ធំ"
-	},
-	{
-		"id": 6,
-		"imageUrl": "https://drive.google.com/uc?id=1qyAg4tVoa37cjQXEIMSFvuWpDJdcELLl",
-		"title": "ទឹកធ្លាក់លែងក្រៀង",
-		"location": "ឃុំសែនមនោរម្យ​ ខេត្តមណ្ឌលគិរី"
-	}
-
-]
+{
+	"status": "ok",
+	"totalResults": 38,
+	"articles": [
+		{
+			"source": {
+				"id": null,
+				"name": "CBS Sports"
+			},
+			"author": "Mike Axisa",
+			"title": "2021 MLs aksdkads",
+			"description": "Keep tabs on the latest"
+			"url": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
+			"urlToImage": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
+			"publisheAt": "2021-07-30T20",
+			"content": "The Cubs have successfully"
+		}
+	]
+}
