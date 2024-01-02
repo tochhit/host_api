@@ -1,4 +1,19 @@
 {
+  "categories": [
+    {
+      "id": 1,
+      "name": "Landmarks"
+    },
+    {
+      "id": 2,
+      "name": "Natural Wonders"
+    },
+    {
+      "id": 3,
+      "name": "Historical Sites"
+    }
+    // Add more categories as needed
+  ],
   "attractions": [
     {
       "id": 1,
@@ -18,7 +33,8 @@
           "comment": "A must-visit when in Paris.",
           "rating": 4
         }
-      ]
+      ],
+      "category_id": 1
     },
     {
       "id": 2,
@@ -38,7 +54,29 @@
           "comment": "Snorkeling here was an unforgettable experience.",
           "rating": 4.5
         }
-      ]
+      ],
+      "category_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Colosseum",
+      "location": "Rome, Italy",
+      "description": "Ancient amphitheater known for its gladiator contests.",
+      "image_url": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
+      "rating": 4.7,
+      "reviews": [
+        {
+          "user": "HistoryBuff",
+          "comment": "A glimpse into ancient Roman history!",
+          "rating": 4
+        },
+        {
+          "user": "TravelEnthusiast",
+          "comment": "Impressive architecture!",
+          "rating": 5
+        }
+      ],
+      "category_id": 3
     }
     // Add more attractions as needed
   ]
