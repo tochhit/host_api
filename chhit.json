@@ -1,19 +1,45 @@
 {
-	"status": "ok",
-	"totalResults": 38,
-	"articles": [
-		{
-			"source": {
-				"id": null,
-				"name": "CBS Sports"
-			},
-			"author": "Mike Axisa",
-			"title": "2021 MLs aksdkads",
-			"description": "Keep tabs on the latest"
-			"url": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-			"urlToImage": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-			"publisheAt": "2021-07-30T20",
-			"content": "The Cubs have successfully"
-		}
-	]
+  "attractions": [
+    {
+      "id": 1,
+      "name": "Eiffel Tower",
+      "location": "Paris, France",
+      "description": "Iconic iron lattice tower located on the Champ de Mars in Paris.",
+      "image_url": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
+      "rating": 4.8,
+      "reviews": [
+        {
+          "user": "JohnDoe",
+          "comment": "Amazing view from the top!",
+          "rating": 5
+        },
+        {
+          "user": "JaneSmith",
+          "comment": "A must-visit when in Paris.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Great Barrier Reef",
+      "location": "Queensland, Australia",
+      "description": "World's largest coral reef system, known for its stunning marine biodiversity.",
+      "image_url": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
+      "rating": 4.9,
+      "reviews": [
+        {
+          "user": "NatureLover",
+          "comment": "Diverse and colorful marine life!",
+          "rating": 5
+        },
+        {
+          "user": "AdventureSeeker",
+          "comment": "Snorkeling here was an unforgettable experience.",
+          "rating": 4.5
+        }
+      ]
+    }
+    // Add more attractions as needed
+  ]
 }
