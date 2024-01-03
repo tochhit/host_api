@@ -1,41 +1,40 @@
 {
   "all": {
     "forest": [
-    {
-      "id": 1,
-      "name": "Redwood Forest",
-      "location": "California, USA",
-      "description": "Home to the tallest trees on Earth.",
-      "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-      "detailUrl": "https://rac-app.com/tour/detail/k06023"
-    },
-    {
-      "id": 2,
-      "name": "Amazon Rainforest",
-      "location": "South America",
-      "description": "The largest rainforest, known for its biodiversity.",
-      "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-      "detailUrl": "https://rac-app.com/tour/detail/k06023"
-    }
-  ],
+      {
+        "id": 1,
+        "name": "Redwood Forest",
+        "location": "California, USA",
+        "description": "Home to the tallest trees on Earth.",
+        "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
+        "detailUrl": "https://rac-app.com/tour/detail/k06023"
+      },
+      {
+        "id": 2,
+        "name": "Amazon Rainforest",
+        "location": "South America",
+        "description": "The largest rainforest, known for its biodiversity.",
+        "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
+        "detailUrl": "https://rac-app.com/tour/detail/k06023"
+      }
+    ],
     "sea": [
-    {
-      "id": 1,
-      "name": "Great Barrier Reef",
-      "location": "Australia",
-      "description": "The world's largest coral reef system.",
-      "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-      "detailUrl": "https://rac-app.com/tour/detail/k06023"
-    },
-    {
-      "id": 2,
-      "name": "Caribbean Sea",
-      "location": "Caribbean",
-      "description": "A popular destination for tropical vacations.",
-      "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-      "detailUrl": "https://rac-app.com/tour/detail/k06023"
-    }
-  ]
-    
+      {
+        "id": 1,
+        "name": "Great Barrier Reef",
+        "location": "Australia",
+        "description": "The world's largest coral reef system.",
+        "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
+        "detailUrl": "https://rac-app.com/tour/detail/k06023"
+      },
+      {
+        "id": 2,
+        "name": "Caribbean Sea",
+        "location": "Caribbean",
+        "description": "A popular destination for tropical vacations.",
+        "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
+        "detailUrl": "https://rac-app.com/tour/detail/k06023"
+      }
+    ]
   }
 }
