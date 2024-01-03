@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Great Barrier Reef",
     "location": "Australia",
-    "description": "The world's largest coral reef system.",
+    "description": "The world's largest coral reef system sea.",
     "imageUrl": "https://example.com/great_barrier_reef.jpg",
     "detailUrl": "https://rac-app.com/tour/detail/k06023",
     "category": "sea"
