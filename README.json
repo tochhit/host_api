@@ -1,10 +1,16 @@
 {
+  "all": [
+    {"id": 1, "category": "forest", "name": "Redwood Forest", "location": "California, USA", "description": "Home to the tallest trees on Earth.", "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K"},
+    {"id": 2, "category": "forest", "name": "Amazon Rainforest", "location": "South America", "description": "The largest rainforest, known for its biodiversity.", "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K"},
+    {"id": 3, "category": "sea", "name": "Great Barrier Reef", "location": "Australia", "description": "The world's largest coral reef system.", "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K"},
+    {"id": 4, "category": "sea", "name": "Caribbean Sea", "location": "Caribbean", "description": "A popular destination for tropical vacations.", "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K"}
+  ],
   "forest": [
-    {"id": 1, "name": "Redwood Forest", "location": "California, USA", "description": "Home to the tallest trees on Earth.", "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K"},
-    {"id": 2, "name": "Amazon Rainforest", "location": "South America", "description": "The largest rainforest, known for its biodiversity.", "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K"}
+    {"id": 1, "category": "forest", "name": "Redwood Forest", "location": "California, USA", "description": "Home to the tallest trees on Earth.", "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K"},
+    {"id": 2, "category": "forest", "name": "Amazon Rainforest", "location": "South America", "description": "The largest rainforest, known for its biodiversity.", "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K"}
   ],
   "sea": [
-    {"id": 1, "name": "Great Barrier Reef", "location": "Australia", "description": "The world's largest coral reef system.", "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K"},
-    {"id": 2, "name": "Caribbean Sea", "location": "Caribbean", "description": "A popular destination for tropical vacations.", "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K"}
+    {"id": 3, "category": "sea", "name": "Great Barrier Reef", "location": "Australia", "description": "The world's largest coral reef system.", "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K"},
+    {"id": 4, "category": "sea", "name": "Caribbean Sea", "location": "Caribbean", "description": "A popular destination for tropical vacations.", "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K"}
   ]
 }
