@@ -4,7 +4,7 @@
     "name": "Redwood Forest",
     "location": "California, USA",
     "description": "Home to the tallest trees on Earth.",
-    "imageUrl": "https://example.com/redwood.jpg",
+    "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
     "detailUrl": "https://rac-app.com/tour/detail/k06023",
     "category": "forest"
   },
@@ -13,7 +13,7 @@
     "name": "Amazon Rainforest",
     "location": "South America",
     "description": "The largest rainforest, known for its biodiversity.",
-    "imageUrl": "https://example.com/amazon.jpg",
+    "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
     "detailUrl": "https://rac-app.com/tour/detail/k06023",
     "category": "forest"
   },
@@ -22,7 +22,7 @@
     "name": "Great Barrier Reef",
     "location": "Australia",
     "description": "The world's largest coral reef system sea.",
-    "imageUrl": "https://example.com/great_barrier_reef.jpg",
+    "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
     "detailUrl": "https://rac-app.com/tour/detail/k06023",
     "category": "sea"
   },
@@ -31,7 +31,7 @@
     "name": "Caribbean Sea",
     "location": "Caribbean",
     "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://example.com/caribbean_sea.jpg",
+    "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
     "detailUrl": "https://rac-app.com/tour/detail/k06023",
     "category": "sea"
   }
