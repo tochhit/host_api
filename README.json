@@ -1,6 +1,6 @@
 [
   {
-    "id": null,
+    "id": 1,
     "name": "Redwood Forest",
     "location": "California, USA",
     "description": "Home to the tallest trees on Earth.",
@@ -9,7 +9,7 @@
     "category": "forest"
   },
   {
-    "id": null,
+    "id": 2,
     "name": "Amazon Rainforest",
     "location": "South America",
     "description": "The largest rainforest, known for its biodiversity.",
@@ -18,7 +18,7 @@
     "category": "forest"
   },
   {
-    "id": null,
+    "id": 2,
     "name": "Great Barrier Reef",
     "location": "Australia",
     "description": "The world's largest coral reef system sea.",
@@ -27,7 +27,7 @@
     "category": "sea"
   },
   {
-    "id": null,
+    "id": 3,
     "name": "Caribbean Sea",
     "location": "Caribbean",
     "description": "A popular destination for tropical vacations.",
@@ -36,7 +36,7 @@
     "category": "sea"
   }
   {
-    "id": null,
+    "id": 4,
     "name": "Caribbean Sea",
     "location": "Caribbean",
     "description": "A popular destination for tropical vacations.",
@@ -45,7 +45,7 @@
     "category": "sea"
   }
   {
-    "id": null,
+    "id": 5,
     "name": "Caribbean Sea",
     "location": "Caribbean",
     "description": "A popular destination for tropical vacations.",
@@ -54,7 +54,7 @@
     "category": "sea"
   }
   {
-    "id": null,
+    "id": 6,
     "name": "Caribbean Sea",
     "location": "Caribbean",
     "description": "A popular destination for tropical vacations.",
@@ -63,7 +63,7 @@
     "category": "sea"
   }
   {
-    "id": null,
+    "id": 7,
     "name": "Caribbean Sea",
     "location": "Caribbean",
     "description": "A popular destination for tropical vacations.",
