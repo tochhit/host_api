@@ -18,7 +18,7 @@
     "category": "forest"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Great Barrier Reef",
     "location": "Australia",
     "description": "The world's largest coral reef system sea.",
@@ -27,43 +27,7 @@
     "category": "sea"
   },
   {
-    "id": 3,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "sea"
-  }
-  {
     "id": 4,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "sea"
-  }
-  {
-    "id": 5,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "sea"
-  }
-  {
-    "id": 6,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "sea"
-  }
-  {
-    "id": 7,
     "name": "Caribbean Sea",
     "location": "Caribbean",
     "description": "A popular destination for tropical vacations.",
