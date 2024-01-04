@@ -34,7 +34,7 @@
     "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
     "detailUrl": "https://rac-app.com/tour/detail/k06023",
     "category": "sea"
-  }
+  },
   {
     "id": 5,
     "name": "Caribbean Sea",
@@ -43,7 +43,7 @@
     "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
     "detailUrl": "https://rac-app.com/tour/detail/k06023",
     "category": "sea"
-  }
+  },
   {
     "id": 6,
     "name": "Caribbean Sea",
@@ -52,7 +52,7 @@
     "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
     "detailUrl": "https://rac-app.com/tour/detail/k06023",
     "category": "sea"
-  }
+  },
   {
     "id": 7,
     "name": "Caribbean Sea",
@@ -61,5 +61,5 @@
     "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
     "detailUrl": "https://rac-app.com/tour/detail/k06023",
     "category": "sea"
-  }
+  },
 ]
