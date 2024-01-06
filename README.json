@@ -49,6 +49,22 @@
   },
   {
     "id": null,
+    "name": "ឆ្នេរកោះយ៉, ឆ្នេរប៉ាក់ខ្លង",
+    "location": "ខេត្តកោះកុង",
+    "description": "ទូកស្មាច់ធុនតូចធំជាច្រើនបានកំពុងរង់ចាំទេសចរនៅបឹងកាឆាង ឆ្លងកាត់ព្រៃកោងកាងដឹកនាំភ្ញៀវធ្វើដំណើរកម្សាន្តតាមមាត់សមុទ្រ។ ឆ្នេរប៉ាក់ខ្លងមានទេសភាពគួរជាទីគយគន់ រំលេចទៅដោយឆ្នេរខ្សាច់ដ៏ស្រស់ស្អាតគួរជាទីទាក់ទាញទេសចរ។ នៅទីនេះក៏មានបម្រើសេវាម្ហូបអាហារនិងអាចរកកន្លែងស្នាក់នៅពេលយប់បានថែមទៀតផង។",
+    "imageUrl": "https://rac-app.com/tour/public/_img/k04011_00.jpg",
+    "detailUrl": "https://rac-app.com/tour/detail/k04011",
+    "map":"ឃុំប៉ាក់ខ្លង ខេត្តកោះកុង",
+    "area": "សេវាអាហារ​, សេវាស្នាក់នៅ, សេវាសង្រ្គោះ",
+    "season": "គ្រប់រដូវ",
+    "road": "ផ្លូវកៅស៊ូ",
+    "facity": "ពីរាជធានីភ្នំពេញ 305 Km (≈5 Hours 0)",
+    "fabuilding": "ពីខេត្តកោះកុង 10.7 Km (≈15 Mins)",
+    "link": "https://www.google.com/maps/place/11%C2%B034'41.9%22N+102%C2%B056'42.7%22E/@11.5783,102.9426251,17z/data=!3m1!4b1!4m4!3m3!8m2!3d11.5783!4d102.9452?entry=ttu",
+    "category": "rate"
+  },
+  {
+    "id": null,
     "name": "ឆ្នេរកោះកុងក្រៅ",
     "location": "ខេត្តកោះកុង",
     "description": "កោះកុងក្រៅមានផ្ទៃដីប្រមាណ ៨០ គីឡូម៉ែត្រការ៉េ និងកម្ពស់ប្រហែល ១០ ម៉ែត្រ ធៀបផ្ទៃទឹកសមុទ្រដ៏ធំល្វឹងល្វើយ ដែលមានពណ៌ខៀវស្រងាត់ ជាកោះដែលសម្បូរទៅដោយធនធានធម្មជាតិ សត្វព្រៃ មច្ឆា ផ្កាថ្ម និងជីវៈចម្រុះ បាតសមុទ្រ មានឆ្នេរខ្សាច់សម្រាប់កម្សាន្តដល់ទៅ០៧កន្លែង មានឈ្មោះរៀងគ្នាជា ចម្ការដូងទី១, ចម្ការដូងទី២, ..., ចម្ការដូងទី៧។ កោះកុងគឺជាកោះក្នុងសមុទ្រកម្ពុជា ដែលមានទំហំធំជាងគេ ទើបក្លាយទៅជាឈ្មោះខេត្តភាគនិរតីមួយនេះផងដែរ។ ដើមដូងត្រឈឹងត្រឈៃ ការមុជទឹកមើលផ្កាថ្ម ការបោះតង់ឬចងអង្រឹងជាកម្មវត្ថុសម្រាប់កម្សាន្តនៅទីនេះ។ ភ្ញៀវត្រូវវិញខ្ចប់ទុកជាមុនពីកំពង់ផែទីរួមខេត្ត ឬអាចទិញគ្រឿងសមុទ្រពីអ្នកភូមិនៅក្បែរៗនោះ។ ក្រៅពីកោះកុងក្រៅ នៅមានឆ្នេរសមុទ្រជាច្រើនដែលគេអាចបន្តដំណើរកម្សាន្ត ដូចជា ឆ្នេរកោះមូល កោះស្មាច់ជាដើម។",
@@ -81,101 +97,34 @@
   },
   {
     "id": null,
-    "name": "Great Barrier Reef",
-    "location": "Australia",
-    "description": "The world's largest coral reef system sea.",
-    "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "forest"
-  },
-  {
-    "id": null,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "desert"
-  },
-  {
-    "id": null,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
+    "name": "ទឹកធ្លាក់ដំណាក់ក្បូន",
+    "location": "ខេត្តកោះកុង",
+    "description": "ទេសចរមកទស្សនាកម្សាន្តទឹកជ្រោះនេះដែលស្ថិតនៅជិតវារីអគ្គិសនីឫស្សីជ្រុំក្រោម ដោយភ្ញៀវអាចរីករាយនឹងភាពស្ងប់ស្ងាត់របស់វានៅឆ្ងាយពីភាពអ៊ូអរនៃទីរួមខេត្តកោះកុង។ ទឹកដ៏ត្រជាក់រួមនឹងព្រៃឈើដុះជុំវិញទឹកជ្រោះនេះធ្វើឱ្យទីនេះជាកន្លែងពិកនិកដ៏ល្អឥតខ្ចោះនៅតំបន់ទឹកជ្រោះដែលជាតំបន់ថែរក្សាធម្មជាតិ និងសត្វព្រៃដែលអ្នកធ្វើដំណើរអាចឃើញប្រភេទសត្វនិងរុក្ខជាតិកម្រមួយចំនួន។",
+    "imageUrl": "https://rac-app.com/tour/public/_img/k04013_00.jpg",
+    "detailUrl": "https://rac-app.com/tour/detail/k04013",
+    "map":"ឃុំប៉ាក់ខ្លង ខេត្តកោះកុង",
+    "area": "សេវាអាហារ​, សេវាស្នាក់នៅ, សេវាសង្រ្គោះ",
+    "season": "វិច្ឆិកា-មិថុនា",
+    "road": "ផ្លូវលំជនបទ",
+    "facity": "ពីរាជធានីភ្នំពេញ 309 Km (≈5 Hours 29Mins)",
+    "fabuilding": "ពីខេត្តកោះកុង 43.8 Km (≈1 Hour 11Mins)",
+    "link": "https://www.google.com/maps?q=11.7651,103.05830",
     "category": "mountain"
   },
   {
     "id": null,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "mountain"
-  },
-  {
-    "id": null,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "mountain"
-  },
-  {
-    "id": null,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "mountain"
-  },
-  {
-    "id": null,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "mountain"
-  },
-  {
-    "id": null,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "mountain"
-  },
-  {
-    "id": null,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
+    "name": "ប្រាសាទស្រីគ្រប់លក្ខណ៍",
+    "location": "ខេត្តកំពង់ធំ",
+    "description": "ឈ្មោះ ស្រីគ្រប់ល័ក្ខណ នេះមកពីគេឃើញផ្តែរទ្វារមួយដែលធ្លាក់រឿងព្រះវិស្ណុផ្ទំ និងមានព្រះនាងលក្សីនៅចុងព្រះបាទរបស់ទ្រង់។ រូបព្រះនាងលក្សីនោះហើយ ដែលអ្នកស្រុកហៅថា 'ស្រីគ្រប់ល័ក្ខណ' ដ្បិតអ្នកស្រុកឃើញព្រះនាងនៅចុងជើងព្រះស្វាមី។ ប្លង់ប្រាសាទនៅក្រុមនេះមានលក្ខណៈស្មុគស្មាញបន្តិច ដ្បិតមានការសាងបន្ថែមជាច្រើនដំណាក់កាល។ ប្រាង្គទាំងអស់ចំនួន ៧ សាងអំពីឥដ្ឋ តែបែរមុខទៅទិសផ្សេងៗគ្នា។ សព្វថ្ងៃនេះ មានតែប្រាង្គចំនួនពីរប៉ុណ្ណោះដែលនៅឈរនិងមានរូបរាងល្អ។ នៅខាងជើងក្រុមប្រាសាទ នេះមានស្រះទឹកមួយ ខាងលិចមានស្រះមួយ និងខាងកើតមានស្រះមួយ។ ប្រាង្គ L៤ ស្ថិតនៅចន្លោះផ្លូវ សាងអំពីឥដ្ឋរាងបួនជ្រុងស្មើ បែរមុខទៅទិសខាងកើត និងមានទ្វារបញ្ឆោតនៅទិសសំខាន់ៗទាំងបីផ្សេង។ ផ្នែកខាងក្នុងជាបន្ទប់សក្ការមានតម្កល់ សោមសូត្រមួយធ្វើអំពីថ្មភក់បង្ហូរទឹកមន្ត មកទិសខាងជើង ដែលជាលក្ខណៈទូទៅ នៃសោមសូត្រនៅស.វ.ទី៧។ ជញ្ជាំងជ្រុងប្រាសាទលម្អដោយសសរផ្អោប និងនៅតាមក្បាលជញ្ជាំងជុំវិញប្រាសាទលម្អដោយក្បាច់ផ្កាច័ន្ទ និង ក្បាច់ជើងទៀនតម្រៀបគ្នា។ ប្រាង្គនេះ មានលក្ខណៈជាសំណង់នៅក្នុងរចនាបថព្រៃក្មេង នាស.វ.ទី ៧ ទំនងក្នុងរជ្ជកាលព្រះបាទភវវរ្ម័នទី២ (គ.ស.៦៣៧-៦៥៧) ឬព្រះបាទជ័យវរ្ម័នទី១ (គ.ស. ៦៥៧-៦៨១)។ ប្រាង្គនៃក្រុមប្រាសាទស្រីគ្រប់ល័ក្ខណមួយក្រុមទៀត មានប្រាង្គ ៣ គឺ L៥, L៦, L៧ ស្ថិតនៅទិសឦសានប្រាង្គ L៤ជាសំណង់ឥដ្ឋ ហើយប្រាង្គសំខាន់ជាងគេ គឺប្រាង្គ L៥ ដែលមានរាងបួនជ្រុងស្មើ និងមានយ៉លយទៅកើត។ នៅច្រកទ្វារខាងកើតនៃប្រាង្គនេះ មានខ្លោងទ្វារចូលចំនួនពីរជាន់។ ខ្លោងទ្វារខាងក្រៅធ្វើអំពីថ្មភក់កាត់រាងបញ្ឆិតភ្ជាប់គ្នាចេញជាស៊ុមទ្វារភ្ជាប់ជាមួយយ៉ ដែលលយចេញពីខ្លោងទ្វារខាងក្នុង ជាលក្ខណៈជាសិល្បៈនៅសម័យអង្គរ។ ប្រាង្គនេះមិនមានទ្វារបញ្ឆោតទេ។ ក្បាលជញ្ជាំងប្រាសាទលម្អដោយក្បាច់ជើងទៀន និងរូបសត្វហង្សនាក់តម្រៀបជាជួរ។ នៅតាមជ្រុងនៃដំបូលគេលម្អដោយក្បាច់គូឌុដែលមានមនុស្សឬទេពនៅខាងក្នុងងាកបែរមុខចេញ គឺជាចម្លាក់គូឧក្នុងរចនាបថព្រៃក្មេង ស.វ.ទី៧។ គឺនៅប្រាង្គនេះគេធ្លាប់រកឃើញផ្តែរទ្វារមួយដែលធ្លាក់រឿងព្រះវិស្ណុផ្ទុំ ប៉ុន្តែផ្តែរទ្វារនេះបានបាត់បង់ប្រមាណកន្លះសតវត្សរ៍ទៅហើយ។ ទីនេះមានសិលាចារឹក K.១៥១ ចារជាភាសាសំស្រ្កឹត។ ប្រាង្គសំខាន់ L៥ នេះ ទំនងសាងឡើងនៅក្នុង រចនាបថព្រៃក្មេង ស.វ.ទី៧ ក្នុងរជ្ជកាលព្រះបាទភវវរ្ម័នទី២ ហើយសង់លយមកមុខបន្ថែមនៅ ស.វ.ទី១១ ក្នុងរជ្ជកាលព្រះបាទសូរ្យវរ្ម័នទី១។ ចំណែក ប្រាង្គចំនួន ២ ទៀត គឺជារចនាសម្ព័ន្ធរបស់ប្រាង្គសំខាន់ L៥ គឺ ប្រាង្គ L៦ ជាច្រកចូលខាងកើត ចំណែកប្រាង្គ L៧ គឺជាហោត្រ័យ។ប្រាង្គបីនៅផ្នែកខាងត្បូងផ្លូវបំបែក L១-L៣ ភាគច្រើនបាក់រលំអស់ ជាប្រាង្គសាងឡើងអំពីឥដ្ឋ មានរាងបួនជ្រុងស្មើ មានទ្វារចូលនៅទិសខាងកើត។ ប្រាង្គ L១ បាក់រលំទាំងស្រុងនៅមើលឃើញជញ្ជាំង ស៊ុមទ្វារធ្វើអំពីថ្មភក់ក្នុងទម្រង់។ ប្រាង្គ L២ មានស្ថិតនៅទិសនិរតីប្រាង្គ L១ បានរលំទាំងស្រុងក្លាយជាពំនូកដី។ ចំណែក ប្រាង្គ L៣ ស្ថិតនៅខាងកើតប្រាង្គ L២ ជាសំណង់ឥដ្ឋរាងបួនជ្រុងទ្រវែង មានទ្វារចូលនៅទិសខាងលិច។ ទ្វារខាងកើតជាទ្វារបញ្ឆោត ដែលគួរតែជាមណ្ឌបរបស់ប្រាង្គ L3។ ស៊ុមទ្វារសាងអំពីថ្មភក់ កាត់សាច់ថ្មបញ្ឆិតចេញជារាងស៊ុមទ្វារ ដែលជាលក្ខណៈទូទៅនៃ ស៊ុមទ្វារសម័យអង្គរ។ ប្រាង្គទាំងបីនេះ ពុំមានព័ត៌មានពិស្ដារទេ ដ្បិតវាកប់ក្នុងដីច្រើន ប៉ុន្តែជាទូទៅស្ថិតនៅក្នុងរចនាបថឃ្លាំង ឬបាពួន ក្នុងស.វ.ទី១១) ក្នុងរជ្ជកាលព្រះបាទសូរ្យវរ្ម័នទី១។",
+    "imageUrl": "https://rac-app.com/tour/public/_img/k08016_00.jpg",
+    "detailUrl": "https://rac-app.com/tour/detail/k08016",
+    "map":"ឃុំសំបូរ ខេត្តកំពង់ធំ",
+    "area": "សេវាអាហារ​, សេវាស្នាក់នៅ, សេវាសង្រ្គោះ",
+    "season": "គ្រប់រដូវ",
+    "road": "ផ្លូវកៅស៊ូ",
+    "facity": "ពីរាជធានីភ្នំពេញ 199 Km (≈3 Hours 33Mins)",
+    "fabuilding": "ពីខេត្តកំពង់ធំ 31.4 Km (≈44 Mins)",
+    "link": "",
     "category": "tample"
-  },
-  {
-    "id": null,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "rate"
-  },
-  {
-    "id": null,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "rate"
-  }
+    }
 ]
