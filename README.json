@@ -106,4 +106,22 @@
     "detailUrl": "https://rac-app.com/tour/detail/k06023",
     "category": "tample"
   }
+  {
+    "id": null,
+    "name": "Caribbean Sea",
+    "location": "Caribbean",
+    "description": "A popular destination for tropical vacations.",
+    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
+    "detailUrl": "https://rac-app.com/tour/detail/k06023",
+    "category": "rate"
+  }
+  {
+    "id": null,
+    "name": "Caribbean Sea",
+    "location": "Caribbean",
+    "description": "A popular destination for tropical vacations.",
+    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
+    "detailUrl": "https://rac-app.com/tour/detail/k06023",
+    "category": "rate"
+  }
 ]
