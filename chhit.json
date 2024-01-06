@@ -1,119 +1,18 @@
-{
-  "categories": [
-    {
-      "id": 1,
-      "name": "Landmarks"
-    },
-    {
-      "id": 2,
-      "name": "Natural Wonders"
-    },
-    {
-      "id": 3,
-      "name": "Historical Sites"
-    }
-  ],
-  "attractions": [
-    {
-      "id": 1,
-      "name": "Eiffel Tower",
-      "location": "Paris, France",
-      "description": "Iconic iron lattice tower located on the Champ de Mars in Paris.",
-      "image_url": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-      "rating": 4.8,
-      "reviews": [
-        {
-          "user": "JohnDoe",
-          "comment": "Amazing view from the top!",
-          "rating": 5
-        },
-        {
-          "user": "JaneSmith",
-          "comment": "A must-visit when in Paris.",
-          "rating": 4
-        }
-      ],
-      "category_id": 1
-    },
-    {
-      "id": 2,
-      "name": "Great Barrier Reef",
-      "location": "Queensland, Australia",
-      "description": "World's largest coral reef system, known for its stunning marine biodiversity.",
-      "image_url": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-      "rating": 4.9,
-      "reviews": [
-        {
-          "user": "NatureLover",
-          "comment": "Diverse and colorful marine life!",
-          "rating": 5
-        },
-        {
-          "user": "AdventureSeeker",
-          "comment": "Snorkeling here was an unforgettable experience.",
-          "rating": 4.5
-        }
-      ],
-      "category_id": 2
-    },
-    {
-      "id": 3,
-      "name": "Colosseum",
-      "location": "Rome, Italy",
-      "description": "Ancient amphitheater known for its gladiator contests.",
-      "image_url": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-      "rating": 4.7,
-      "reviews": [
-        {
-          "user": "HistoryBuff",
-          "comment": "A glimpse into ancient Roman history!",
-          "rating": 4
-        },
-        {
-          "user": "TravelEnthusiast",
-          "comment": "Impressive architecture!",
-          "rating": 5
-        }
-      ],
-      "category_id": 3
-    }
-  ]
-}
 [
   {
-    "id": 1,
-    "name": "Redwood Forest",
-    "location": "California, USA",
-    "description": "Home to the tallest trees on Earth.",
-    "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "forest"
-  },
-  {
-    "id": 2,
-    "name": "Amazon Rainforest",
-    "location": "South America",
-    "description": "The largest rainforest, known for its biodiversity.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "forest"
-  },
-  {
-    "id": 3,
-    "name": "Great Barrier Reef",
-    "location": "Australia",
-    "description": "The world's largest coral reef system sea.",
-    "imageUrl": "https://drive.google.com/uc?id=1oCRnYhk-_cMIIOljIH4tIoDVQXvAEX6K",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "sea"
-  },
-  {
-    "id": 4,
-    "name": "Caribbean Sea",
-    "location": "Caribbean",
-    "description": "A popular destination for tropical vacations.",
-    "imageUrl": "https://drive.google.com/uc?id=1qDgEUFboieixrKkyzexThi8__b-xzAFW",
-    "detailUrl": "https://rac-app.com/tour/detail/k06023",
-    "category": "sea"
+    "id": null,
+    "name": "ឆ្នេរកោះយ៉, ឆ្នេរប៉ាក់ខ្លង",
+    "location": "ខេត្តកោះកុង",
+    "description": "ទូកស្មាច់ធុនតូចធំជាច្រើនបានកំពុងរង់ចាំទេសចរនៅបឹងកាឆាង ឆ្លងកាត់ព្រៃកោងកាងដឹកនាំភ្ញៀវធ្វើដំណើរកម្សាន្តតាមមាត់សមុទ្រ។ ឆ្នេរប៉ាក់ខ្លងមានទេសភាពគួរជាទីគយគន់ រំលេចទៅដោយឆ្នេរខ្សាច់ដ៏ស្រស់ស្អាតគួរជាទីទាក់ទាញទេសចរ។ នៅទីនេះក៏មានបម្រើសេវាម្ហូបអាហារនិងអាចរកកន្លែងស្នាក់នៅពេលយប់បានថែមទៀតផង។",
+    "imageUrl": "https://rac-app.com/tour/public/_img/k04011_00.jpg",
+    "detailUrl": "https://rac-app.com/tour/detail/k04011",
+    "map":"ឃុំប៉ាក់ខ្លង ខេត្តកោះកុង",
+    "area": "សេវាអាហារ​, សេវាស្នាក់នៅ, សេវាសង្រ្គោះ",
+    "season": "គ្រប់រដូវ",
+    "road": "ផ្លូវកៅស៊ូ",
+    "facity": "ពីរាជធានីភ្នំពេញ 305 Km (≈5 Hours 0)",
+    "fabuilding": "ពីខេត្តកោះកុង 10.7 Km (≈15 Mins)",
+    "link": "https://www.google.com/maps/place/11%C2%B034'41.9%22N+102%C2%B056'42.7%22E/@11.5783,102.9426251,17z/data=!3m1!4b1!4m4!3m3!8m2!3d11.5783!4d102.9452?entry=ttu",
+    "category": "rate"
   }
 ]
