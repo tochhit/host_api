@@ -1,15 +1,15 @@
 [
   {
-    "id":"",
-    "name":"",
-    "price":"",
-    "dicount":"",
-    "afterprice":"",
+    "id":"null",
+    "name":"Blue white Curtain",
+    "price":"20$",
+    "dicount":"10%",
+    "afterprice":"19.50$",
     "imageUrl":"",
-    "quantity":"",
-    "delivery":"",
-    "size":"",
-    "description":"",
-    "category":""
+    "quantity":"sadsadasdasdas",
+    "delivery":"asdasdas",
+    "size":"5",
+    "description":"sadsad",
+    "category":"Home Decoration"
   }
 ]
