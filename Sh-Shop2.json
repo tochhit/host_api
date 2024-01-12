@@ -5,8 +5,7 @@
     "imageUrl": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1705017600&semt=sph",
     "price": "$20.00",
     "size": "M",
-    "description": "This is item 1 description.",
-    "category": "category1"
+    "description": "This is item 1 description."
   },
   {
     "id": 2,
@@ -14,8 +13,7 @@
     "imageUrl": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1705017600&semt=sph",
     "price": "$30.00",
     "size": "L",
-    "description": "This is item 2 description.",
-    "category": "category1"
+    "description": "This is item 2 description."
   },
   {
     "id": 3,
@@ -23,8 +21,7 @@
     "imageUrl": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1705017600&semt=sph",
     "price": "$25.00",
     "size": "S",
-    "description": "This is item 3 description.",
-    "category": "category2"
+    "description": "This is item 3 description."
   },
   {
     "id": 4,
@@ -32,7 +29,6 @@
     "imageUrl": "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1705017600&semt=sph",
     "price": "$40.00",
     "size": "XL",
-    "description": "This is item 4 description.",
-    "category": "category2"
+    "description": "This is item 4 description."
   }
 ]
