@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "name": "Blue White Curtain",
+    "price": "20$",
+    "discount": "10%",
+    "afterprice": "19.50$",
+    "imageUrl": "https://rac-app.com/tour/public/_img/k04011_00.jpg",
+    "size": "5",
+    "description": "sadsad",
+    "category": "home"
+  },
+  {
+    "id": "2",
+    "name": "Red Silk Pillow",
+    "price": "15$",
+    "discount": "5%",
+    "afterprice": "14.25$",
+    "imageUrl": "https://rac-app.com/tour/public/_img/k04012_00.jpg",
+    "size": "3",
+    "description": "Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.BeautBeautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.iful red silk pillow for your home.",
+    "category": "home"
+  },
+  {
+    "id": "3",
+    "name": "Red Silk Pillow",
+    "price": "15$",
+    "discount": "5%",
+    "afterprice": "14.25$",
+    "imageUrl": "https://rac-app.com/tour/public/_img/k04012_00.jpg",
+    "size": "3",
+    "description": "Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.BeautBeautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.iful red silk pillow for your home.",
+    "category": "home1"
+  }
+]
