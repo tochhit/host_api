@@ -36,11 +36,11 @@
     "id": "4",
     "name": "Nargis Beige Textured Wall Paper",
     "price": "205.12$",
-    "discount": "10%",
+    "discount": "0%",
     "afterprice": "205.12$",
-    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
-    "size": "114.3 L x 20.3 W x 30.5 H",
-    "description": "Material(), Finish(), Storage(), Height(), Product Quantity(), Product Weight(), Dimensions-Cm(), Brand(), SKU()",
+    "imageUrl": "https://images.woodenstreet.de/image/data/kalakarihath/nargis-beige-textured-wall-paper/updated/1.jpg",
+    "size": "213.4 W x 243.8 H",
+    "description": "Material(Textured wallpaper), Pack Content(1 Wall Paper Roll), Note(Minimum One Roll Need To Be Purchased), Note 2(Installation Needs To Be Done By The Customer), Dimensions-Cm(213.4 W x 243.8 H), Brand(Kalakaari Haath), SKU(KH_WBR_BAH_NAR)",
     "category": "Sticky Paper Wall"
   },
   {
@@ -78,25 +78,25 @@
   },
   {
     "id": "8",
-    "name": "Tia Wall Shelf",
-    "price": "69.85$",
-    "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
-    "size": "114.3 L x 20.3 W x 30.5 H",
-    "description": "Material(), Finish(), Storage(), Height(), Product Quantity(), Product Weight(), Dimensions-Cm(), Brand(), SKU()",
-    "category": "home"
+    "name": "Jashn Textured Wall Paper",
+    "price": "205.12$",
+    "discount": "0%",
+    "afterprice": "205.12$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/kalakarihath/jashn-textured-wall-paper/updated/1.jpg",
+    "size": "213.4 W x 243.8 H",
+    "description": "Material(Textured wallpaper), Pack Content(1 Wall Paper Roll), Note(Minimum One Roll Need To Be Purchased), Note 2(Installation Needs To Be Done By The Customer), Dimensions-Cm(213.4 W x 243.8 H), Brand(Kalakaari Haath), SKU(KH_WBR_BAH_JAS)",
+    "category": "Sticky Paper Wall"
   },
   {
     "id": "9",
-    "name": "Tia Wall Shelf",
-    "price": "69.85$",
-    "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
-    "size": "114.3 L x 20.3 W x 30.5 H",
-    "description": "Material(), Finish(), Storage(), Height(), Product Quantity(), Product Weight(), Dimensions-Cm(), Brand(), SKU()",
-    "category": "home"
+    "name": "As Blue As Indigo Textured Wall Paper",
+    "price": "132.72$",
+    "discount": "0%",
+    "afterprice": "132.72$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/kalakarihath/as-blue-as-indigo-textured-wall-paper/updated/1.jpg",
+    "size": "213.4 W x 243.8 H",
+    "description": "Material(Textured wallpaper), Pack Content(1 Wall Paper Roll), Note(Minimum One Roll Need To Be Purchased), Note 2(Installation Needs To Be Done By The Customer), Dimensions-Cm(213.4 W x 243.8 H), Brand(Kalakaari Haath), SKU(KH_WBR_ABAI_R)",
+    "category": "Sticky Paper Wall"
   },
   {
     "id": "10",
@@ -122,14 +122,14 @@
   },
   {
     "id": "11",
-    "name": "Tia Wall Shelf",
-    "price": "69.85$",
-    "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
-    "size": "114.3 L x 20.3 W x 30.5 H",
-    "description": "Material(), Finish(), Storage(), Height(), Product Quantity(), Product Weight(), Dimensions-Cm(), Brand(), SKU()",
-    "category": "home"
+    "name": "Bloom Again Textured Wall Paper",
+    "price": "132.72$",
+    "discount": "0%",
+    "afterprice": "132.72$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/kalakarihath/bloom-again-textured-wall-paper/updated/1.jpg",
+    "size": "213.4 W x 243.8 H",
+    "description": "Material(Textured wallpaper), Pack Content(1 Wall Paper Roll), Note(Minimum One Roll Need To Be Purchased), Note 2(Installation Needs To Be Done By The Customer), Dimensions-Cm(213.4 W x 243.8 H), Brand(Kalakaari Haath), SKU(KH_WBR_GB_R)",
+    "category": "Sticky Paper Wall"
   },
   {
     "id": "12",
