@@ -3,12 +3,12 @@
     "id": "1",
     "name": "Tia Wall Shelf",
     "price": "69.85$",
-    "discount": "10%",
-    "afterprice": "19.50$",
+    "discount": "24% OFF",
+    "afterprice": "69.85$",
     "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
     "size": "114.3 L x 20.3 W x 30.5 H",
     "description": "Material(Sheesham wood), Finish(Honey finish), Storage(Yes), Height(12 inches), Product Quantity(1 Unit), Product Weight(15 Kg), Dimensions-Cm(114.3 L x 20.3 W x 30.5 H), Brand(Wooden Street), SKU(WSWLS189HF20818)",
-    "category": "home"
+    "category": "Home Decoration"
   },
   {
     "id": "2",
@@ -45,14 +45,14 @@
   },
   {
     "id": "5",
-    "name": "Tia Wall Shelf",
-    "price": "69.85$",
-    "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
-    "size": "114.3 L x 20.3 W x 30.5 H",
-    "description": "Material(), Finish(), Storage(), Height(), Product Quantity(), Product Weight(), Dimensions-Cm(), Brand(), SKU()",
-    "category": "home"
+    "name": "Grizzo Wall Shelf",
+    "price": "48.13$",
+    "discount": "43% OFF",
+    "afterprice": "48.13$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/grizzo-wall-shelf/honey/updated/1.jpg",
+    "size": "30 L x 5 W x 30 H",
+    "description": "Material(Sheesham wood), Finish(Honey finish), Storage(Yes), Height(30 inches), Product Quantity(1 Unit), Product Weight(9 Kg), Dimensions-Cm(76.2 L x 12.7 W x 76.2 H), Brand(Wooden Street), SKU(WSWLS189HF20942)",
+    "category": "Home Decoration"
   },
   {
     "id": "6",
@@ -67,14 +67,14 @@
   },
   {
     "id": "7",
-    "name": "Tia Wall Shelf",
-    "price": "69.85$",
-    "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
-    "size": "114.3 L x 20.3 W x 30.5 H",
-    "description": "Material(), Finish(), Storage(), Height(), Product Quantity(), Product Weight(), Dimensions-Cm(), Brand(), SKU()",
-    "category": "home"
+    "name": "Columbia Wall Shelf With Key Holder",
+    "price": "13.26$",
+    "discount": "21% OFF",
+    "afterprice": "13.26$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/columbia-wall-shelf-with-key-holder-honey-finish/1.jpg",
+    "size": "45.7 L x 25.4 H",
+    "description": "Material(Sheesham wood), Finish(Honey finish), Storage(Yes), Product Quantity(1 Unit), Dimensions-Cm(45.7 L x 25.4 H), Brand(Wooden Street), SKU(WSS81086)",
+    "category": "Home Decoration"
   },
   {
     "id": "8",
@@ -166,14 +166,14 @@
   },
   {
     "id": "15",
-    "name": "Tia Wall Shelf",
-    "price": "69.85$",
-    "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
-    "size": "114.3 L x 20.3 W x 30.5 H",
-    "description": "Material(), Finish(), Storage(), Height(), Product Quantity(), Product Weight(), Dimensions-Cm(), Brand(), SKU()",
-    "category": "home"
+    "name": "Bee Hive Wall Shelves",
+    "price": "48.13$",
+    "discount": "26% OFF",
+    "afterprice": "48.13$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/bee-hive-wall-shelves/updated/1.jpg",
+    "size": "40.6 L x 35.6 H",
+    "description": "Material(Mango wood), Finish(Natural finish), Storage(Yes), Product Quantity(1 Unit), Dimensions-Cm(40.6 L x 35.6 H), Brand(Wooden Street), SKU(WSWLS823TS17780)",
+    "category": "Home Decoration"
   },
   {
     "id": "16",
