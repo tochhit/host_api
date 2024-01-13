@@ -1,46 +1,68 @@
 [
   {
-    "id": "1",
-    "name": "Blue White Curtain",
-    "price": "20$",
+    "id": "4",
+    "name": "Nargis Beige Textured Wall Paper",
+    "price": "205.12$",
+    "discount": "0%",
+    "afterprice": "205.12$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/kalakarihath/nargis-beige-textured-wall-paper/updated/1.jpg",
+    "size": "213.4 W x 243.8 H",
+    "description": "Material(Textured wallpaper), Pack Content(1 Wall Paper Roll), Note(Minimum One Roll Need To Be Purchased), Note 2(Installation Needs To Be Done By The Customer), Dimensions-Cm(213.4 W x 243.8 H), Brand(Kalakaari Haath), SKU(KH_WBR_BAH_NAR)",
+    "category": "Sticky Paper Wall"
+  },
+  {
+    "id": "7",
+    "name": "Columbia Wall Shelf With Key Holder",
+    "price": "13.26$",
+    "discount": "21% OFF",
+    "afterprice": "13.26$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/columbia-wall-shelf-with-key-holder-honey-finish/1.jpg",
+    "size": "45.7 L x 25.4 H",
+    "description": "Material(Sheesham wood), Finish(Honey finish), Storage(Yes), Product Quantity(1 Unit), Dimensions-Cm(45.7 L x 25.4 H), Brand(Wooden Street), SKU(WSS81086)",
+    "category": "Home Decoration"
+  },
+  {
+    "id": "11",
+    "name": "Hand Crafted Studio Pottery Light Blue Mugs",
+    "price": "13.59$",
+    "discount": "21% OFF",
+    "afterprice": "13.59$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/nakshithalla/hand-crafted-studio-pottery-light-blue-mugs/1.jpg",
+    "size": "8.9 L x 8.9 W x 8.9 H",
+    "description": "Material(Studio pottery), Pack Content(Set of 2 cups), Dimensions-Cm(8.9 L x 8.9 W x 8.9 H), Brand(Nakshikathaa), SKU(NCKDSPMGBL034)",
+    "category": "Spices"
+  },
+  {
+    "id": "13",
+    "name": "American Wonderland Long Door Curtains- Set Of 2",
+    "price": "71.07$",
     "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://rac-app.com/tour/public/_img/k04011_00.jpg",
-    "size": "5",
-    "description": "sadsad",
-    "category": "home"
+    "afterprice": "71.07$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/home-decors/the-curtains-label/american-wonderland-window-curtains-set-of-2/updated/update/updated.jpg",
+    "size": "76.2 W x 274.3 H",
+    "description": "Material(Cotton), Color(Multi colour), Size(9 feet), Curtain header(Eyelet), Pack Content(Door Curtains - Set Of 2), Dimensions-Cm(76.2 W x 274.3 H), Brand(Curtain Label), SKU(Wonderland_ Multi S30x 108_NL_A)",
+    "category": "Curtain"
   },
   {
-    "id": "2",
-    "name": "Red Silk Pillow",
-    "price": "15$",
-    "discount": "5%",
-    "afterprice": "14.25$",
-    "imageUrl": "https://rac-app.com/tour/public/_img/k04012_00.jpg",
-    "size": "3",
-    "description": "Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.BeautBeautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.iful red silk pillow for your home.",
-    "category": "home"
+    "id": "14",
+    "name": "Gold Finish Metal Ambient Hanging Lamp",
+    "price": "21.45$",
+    "discount": "30% OFF",
+    "afterprice": "21.45$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/nakshithalla/gold-finish-metal-ambient-hanging-lamp/1.jpg",
+    "size": "114.3 L x 20.3 W x 30.5 H",
+    "description": "Material(Metal), Pack Content(1), Dimensions-Cm(17.8 L x 17.8 W x 30.5 H), Brand(Nakshikathaa), SKU(NCLLGDHGL022)",
+    "category": "Spices"
   },
   {
-    "id": "3",
-    "name": "Red Silk Pillow",
-    "price": "15$",
-    "discount": "5%",
-    "afterprice": "14.25$",
-    "imageUrl": "https://rac-app.com/tour/public/_img/k04012_00.jpg",
-    "size": "3",
-    "description": "Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.BeautBeautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.iful red silk pillow for your home.",
-    "category": "home1"
-  },
-  {
-    "id": "3",
-    "name": "Red Silk Pillow",
-    "price": "15$",
-    "discount": "5%",
-    "afterprice": "14.25$",
-    "imageUrl": "https://rac-app.com/tour/public/_img/k04012_00.jpg",
-    "size": "3",
-    "description": "Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.BeautBeautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.iful red silk pillow for your home.",
-    "category": "home1"
+    "id": "15",
+    "name": "Bee Hive Wall Shelves",
+    "price": "48.13$",
+    "discount": "26% OFF",
+    "afterprice": "48.13$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/bee-hive-wall-shelves/updated/1.jpg",
+    "size": "40.6 L x 35.6 H",
+    "description": "Material(Mango wood), Finish(Natural finish), Storage(Yes), Product Quantity(1 Unit), Dimensions-Cm(40.6 L x 35.6 H), Brand(Wooden Street), SKU(WSWLS823TS17780)",
+    "category": "Home Decoration"
   }
 ]
