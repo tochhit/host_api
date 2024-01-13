@@ -56,14 +56,14 @@
   },
   {
     "id": "6",
-    "name": "Tia Wall Shelf",
-    "price": "69.85$",
-    "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
-    "size": "114.3 L x 20.3 W x 30.5 H",
-    "description": "Material(), Finish(), Storage(), Height(), Product Quantity(), Product Weight(), Dimensions-Cm(), Brand(), SKU()",
-    "category": "home"
+    "name": "Modern Cocktail Bar Tool Set of 4",
+    "price": "20.45$",
+    "discount": "43% OFF",
+    "afterprice": "20.45$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/nestroots/copper-cocktail-bar-tool-set-of-4/1.jpg",
+    "size": "3.3 L x 16 H - 10.2 L x 17.8 H",
+    "description": "Material(Stainless steel), Dimensions-Cm(3.3 L x 16 H - 10.2 L x 17.8 H), Brand(Nestroots), SKU(NRBST -03)",
+    "category": "Spices"
   },
   {
     "id": "7",
@@ -100,28 +100,28 @@
   },
   {
     "id": "10",
-    "name": "Tia Wall Shelf",
-    "price": "69.85$",
-    "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
-    "size": "114.3 L x 20.3 W x 30.5 H",
-    "description": "Material(), Finish(), Storage(), Height(), Product Quantity(), Product Weight(), Dimensions-Cm(), Brand(), SKU()",
-    "category": "home"
-  },
-  {
-    "id": "10",
-    "name": "Tia Wall Shelf",
-    "price": "69.85$",
-    "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
-    "size": "114.3 L x 20.3 W x 30.5 H",
-    "description": "Material(), Finish(), Storage(), Height(), Product Quantity(), Product Weight(), Dimensions-Cm(), Brand(), SKU()",
-    "category": "home"
+    "name": "Blue Enamel Printed Wooden Masala Box",
+    "price": "34.93$",
+    "discount": "50% OFF",
+    "afterprice": "34.93$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/nestroots/New%20Images%20Feb%202023/blue-enamel-printed-wooden-masala-box/front.jpg",
+    "size": "Box(9 L x 2.7 H)",
+    "description": "Material(Teak wood), Pack Content(1 Spice Box 7 Jars), Dimension of Containers (6.9 L x 5.3 H), Dimension of Spice Box (22.9 L x 6.9 H), Brand(Nestroots), SKU(NRPMB8)",
+    "category": "Spices"
   },
   {
     "id": "11",
+    "name": "Hand Crafted Studio Pottery Light Blue Mugs",
+    "price": "13.59$",
+    "discount": "21% OFF",
+    "afterprice": "13.59$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/nakshithalla/hand-crafted-studio-pottery-light-blue-mugs/1.jpg",
+    "size": "8.9 L x 8.9 W x 8.9 H",
+    "description": "Material(Studio pottery), Pack Content(Set of 2 cups), Dimensions-Cm(8.9 L x 8.9 W x 8.9 H), Brand(Nakshikathaa), SKU(NCKDSPMGBL034)",
+    "category": "Spices"
+  },
+  {
+    "id": "12",
     "name": "Bloom Again Textured Wall Paper",
     "price": "132.72$",
     "discount": "0%",
@@ -132,7 +132,7 @@
     "category": "Sticky Paper Wall"
   },
   {
-    "id": "12",
+    "id": "13",
     "name": "American Wonderland Long Door Curtains- Set Of 2",
     "price": "71.07$",
     "discount": "10%",
@@ -143,26 +143,15 @@
     "category": "Curtain"
   },
   {
-    "id": "13",
-    "name": "Tia Wall Shelf",
-    "price": "69.85$",
-    "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
-    "size": "114.3 L x 20.3 W x 30.5 H",
-    "description": "Material(), Finish(), Storage(), Height(), Product Quantity(), Product Weight(), Dimensions-Cm(), Brand(), SKU()",
-    "category": "home"
-  },
-  {
     "id": "14",
-    "name": "Tia Wall Shelf",
-    "price": "69.85$",
-    "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
+    "name": "Gold Finish Metal Ambient Hanging Lamp",
+    "price": "21.45$",
+    "discount": "30% OFF",
+    "afterprice": "21.45$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/nakshithalla/gold-finish-metal-ambient-hanging-lamp/1.jpg",
     "size": "114.3 L x 20.3 W x 30.5 H",
-    "description": "Material(), Finish(), Storage(), Height(), Product Quantity(), Product Weight(), Dimensions-Cm(), Brand(), SKU()",
-    "category": "home"
+    "description": "Material(Metal), Pack Content(1), Dimensions-Cm(17.8 L x 17.8 W x 30.5 H), Brand(Nakshikathaa), SKU(NCLLGDHGL022)",
+    "category": "Spices"
   },
   {
     "id": "15",
