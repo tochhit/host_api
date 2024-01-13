@@ -1,35 +1,57 @@
 [
   {
+    "id": "8",
+    "name": "Jashn Textured Wall Paper",
+    "price": "205.12$",
+    "discount": "0%",
+    "afterprice": "205.12$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/kalakarihath/jashn-textured-wall-paper/updated/1.jpg",
+    "size": "213.4 W x 243.8 H",
+    "description": "Material(Textured wallpaper), Pack Content(1 Wall Paper Roll), Note(Minimum One Roll Need To Be Purchased), Note 2(Installation Needs To Be Done By The Customer), Dimensions-Cm(213.4 W x 243.8 H), Brand(Kalakaari Haath), SKU(KH_WBR_BAH_JAS)",
+    "category": "Sticky Paper Wall"
+  },
+  {
+    "id": "10",
+    "name": "Blue Enamel Printed Wooden Masala Box",
+    "price": "34.93$",
+    "discount": "50% OFF",
+    "afterprice": "34.93$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/nestroots/New%20Images%20Feb%202023/blue-enamel-printed-wooden-masala-box/front.jpg",
+    "size": "Box(9 L x 2.7 H)",
+    "description": "Material(Teak wood), Pack Content(1 Spice Box 7 Jars), Dimension of Containers (6.9 L x 5.3 H), Dimension of Spice Box (22.9 L x 6.9 H), Brand(Nestroots), SKU(NRPMB8)",
+    "category": "Spices"
+  },
+  {
     "id": "1",
-    "name": "Blue White Curtain",
-    "price": "20$",
-    "discount": "10%",
-    "afterprice": "19.50$",
-    "imageUrl": "https://rac-app.com/tour/public/_img/k04011_00.jpg",
-    "size": "5",
-    "description": "sadsad",
-    "category": "home"
+    "name": "Tia Wall Shelf",
+    "price": "69.85$",
+    "discount": "24% OFF",
+    "afterprice": "69.85$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/tia-wall-shelf/updated/honey-finish/1.jpg",
+    "size": "114.3 L x 20.3 W x 30.5 H",
+    "description": "Material(Sheesham wood), Finish(Honey finish), Storage(Yes), Height(12 inches), Product Quantity(1 Unit), Product Weight(15 Kg), Dimensions-Cm(114.3 L x 20.3 W x 30.5 H), Brand(Wooden Street), SKU(WSWLS189HF20818)",
+    "category": "Home Decoration"
   },
   {
-    "id": "2",
-    "name": "Red Silk Pillow",
-    "price": "15$",
-    "discount": "5%",
-    "afterprice": "14.25$",
-    "imageUrl": "https://rac-app.com/tour/public/_img/k04012_00.jpg",
-    "size": "3",
-    "description": "Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.BeautBeautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.iful red silk pillow for your home.",
-    "category": "home"
+    "id": "15",
+    "name": "Bee Hive Wall Shelves",
+    "price": "48.13$",
+    "discount": "26% OFF",
+    "afterprice": "48.13$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/wall-shelves/bee-hive-wall-shelves/updated/1.jpg",
+    "size": "40.6 L x 35.6 H",
+    "description": "Material(Mango wood), Finish(Natural finish), Storage(Yes), Product Quantity(1 Unit), Dimensions-Cm(40.6 L x 35.6 H), Brand(Wooden Street), SKU(WSWLS823TS17780)",
+    "category": "Home Decoration"
   },
   {
-    "id": "3",
-    "name": "Red Silk Pillow",
-    "price": "15$",
-    "discount": "5%",
-    "afterprice": "14.25$",
-    "imageUrl": "https://rac-app.com/tour/public/_img/k04012_00.jpg",
-    "size": "3",
-    "description": "Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.BeautBeautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.Beautiful red silk pillow for your home.iful red silk pillow for your home.",
-    "category": "home1"
+    "id": "16",
+    "name": "Taj American Geometrical American Door Curtain",
+    "price": "55.92$",
+    "discount": "30% OFF",
+    "afterprice": "55.92$",
+    "imageUrl": "https://images.woodenstreet.de/image/data/home-decors/the-curtains-label/taj-american-grey-door-curtains-set-of-2/updated/TCL-1.jpg",
+    "size": "76.2 W x 213.4 H",
+    "description": "Material(Cotton), Color(Grey), Size(7 feet), Curtain header(Eyelet), Pack Content(Taj Door Curtains - Set Of 2), Dimensions-Cm(76.2 W x 213.4 H), Brand(Curtain Label), SKU(Taj_Grey_S30 X 84_NL_A)",
+    "category": "Curtain"
   }
 ]
