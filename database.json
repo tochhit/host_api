@@ -120,7 +120,79 @@
 
       ],
       "title": "Plaid shirt"
-	"category": "Adidas"
     }
+	  {
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/n3.png?alt=media&token=70d375eb-8c4d-44e4-972d-2799a846b4b5"
+      ],
+      "price": 35,
+      "rating": 4.6,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+	"44"
+      ],
+      "title": "Pink singlet"
+    },
+	  {
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/n1.png?alt=media&token=621f67e5-00d2-4347-9bf8-baa5210e6057"
+      ],
+      "price": 35,
+      "rating": 4.6,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+	"44"
+      ],
+      "title": "Pink singlet"
+    },
+	  {
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/n2.png?alt=media&token=2a2bfab7-4d68-4f58-b88f-4cd17f4e6fb8"
+      ],
+      "price": 35,
+      "rating": 4.6,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+	"44"
+      ],
+      "title": "Pink singlet"
+    },
+	  {
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/n4.png?alt=media&token=6cace2cd-cf66-4542-bfef-cf2328983c5c",
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/n5.png?alt=media&token=1363a098-5fcb-473a-b080-d4674df2fd2d"
+      ],
+      "price": 35,
+      "rating": 4.6,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+	"44"
+      ],
+      "title": "Pink singlet"
+    },
   ]
 }
